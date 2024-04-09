@@ -1,0 +1,18 @@
+{
+  "name": "vendor_name/htdocs",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "acer",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.8",
+    "fabpot/goutte": "^4.0",
+    "masterminds/html5": "^2.9",
+    "ext-dom": "*"
+  }
+}
